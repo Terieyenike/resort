@@ -20,4 +20,4 @@ Feel free to use parts of the code in your own projects with attribution.
 
 Teri
 
-[Check me out](https://resort-yby3z.ondigitalocean.app/)
+[Project live](https://resort-yby3z.ondigitalocean.app/)
