@@ -1,0 +1,7 @@
+spec:
+  name: resort
+  static_sites:
+    - git:
+        branch: main
+        repo_clone_url: https://github.com/Terieyenike/resort.git
+      name: resort
