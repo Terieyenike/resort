@@ -4,9 +4,15 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 The Resort Beach Hotel is a service for relaxation away from home. It is built around the ability to reserve a room based on the suite of your preference.
 
+### Deploying the App
+
+Click this button to deploy the app to the DigitalOcean App Platform
+
 [![Deploy to DO](https://mp-assets1.sfo2.digitaloceanspaces.com/deploy-to-do/do-btn-blue.svg)](https://cloud.digitalocean.com/apps/new?repo=https://github.com/terieyenike/resort/tree/main&refcode=97aee38fde94)
 
 ### Tech Stack
+
+---
 
 - React
 - React icons
